@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[inj:home|Door43 (inj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-inj|d43-inj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-inj/archive/master.zip|d43-inj.zip]]
+
+**Recent Changes**
+{{changes>ns = inj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/inj|Ethnologue data]]
+
